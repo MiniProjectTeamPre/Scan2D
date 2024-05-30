@@ -1,0 +1,11 @@
+D:\ServerSvn\Projects C#\mini_projeck_template\Scan2D\Scan2D\bin\Debug\Scan2D.exe.config
+D:\ServerSvn\Projects C#\mini_projeck_template\Scan2D\Scan2D\bin\Debug\Scan2D.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\Scan2D\Scan2D\bin\Debug\Scan2D.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\Scan2D\Scan2D\obj\Debug\Scan2D.Form1.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\Scan2D\Scan2D\obj\Debug\Scan2D.Properties.Resources.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\Scan2D\Scan2D\obj\Debug\Scan2D.csproj.GenerateResource.Cache
+D:\ServerSvn\Projects C#\mini_projeck_template\Scan2D\Scan2D\obj\Debug\Scan2D.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\Scan2D\Scan2D\obj\Debug\Scan2D.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\Scan2D\Scan2D\obj\Debug\Scan2D.csproj.AssemblyReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\Scan2D\Scan2D\obj\Debug\Scan2D.csproj.SuggestedBindingRedirects.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\Scan2D\Scan2D\obj\Debug\Scan2D.csproj.CoreCompileInputs.cache
